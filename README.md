@@ -39,7 +39,8 @@ It seems very easy and clear to implement, but there were several things to thin
 - Actually the first solution solved the second one as soon as I solved that. I'll find the reason.
 - To solve the last problem, I found one clue making the scroll view as the container (not the root view).
 
-    ![Making%20Weather-Like%20ScrollView%20087f4ef0d24641e0b48967d68ab48e86/View_Hierarchy.001.png](Making%20Weather-Like%20ScrollView%20087f4ef0d24641e0b48967d68ab48e86/View_Hierarchy.001.png)
+![View Hierarchy 001](https://user-images.githubusercontent.com/34618339/101880011-93e0fb00-3bd5-11eb-9bf5-9f1320a7cdf3.png)
+
 
     I added the scroll view into the root as the lowest child, then set the rest's `zPosition` to some higher value. 
 
