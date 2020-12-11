@@ -1,6 +1,5 @@
 # Making Weather-Like ScrollView
-
-![Making%20Weather-Like%20ScrollView%20087f4ef0d24641e0b48967d68ab48e86/Weather-Like-ScrollView.gif](Making%20Weather-Like%20ScrollView%20087f4ef0d24641e0b48967d68ab48e86/Weather-Like-ScrollView.gif)
+![Weather-Like-ScrollView](https://user-images.githubusercontent.com/34618339/101879923-6d22c480-3bd5-11eb-8843-c8ed8ba69901.gif)
 
 ---
 
