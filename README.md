@@ -3,6 +3,10 @@
 
 ---
 
+- 유저가 빠르게 스크롤 할 때, 헤더의 높이를 조정하는 부분에서 매끄럽지 않은 부분이 발생하.
+- 헤더의 폰트 크기 결정하기
+- 푸터에는 버튼이 들어가야 하는데, 터치 이벤트가 전달이 되는지 아직 확인하지 않음
+
 # Problems
 
 The `UIScrollView`, surrounded by the `UIPageViewController`, behaves like the above as the user scroll it.
