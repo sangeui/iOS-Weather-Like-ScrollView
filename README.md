@@ -42,8 +42,8 @@ It seems very easy and clear to implement, but there were several things to thin
 ![View Hierarchy 001](https://user-images.githubusercontent.com/34618339/101880011-93e0fb00-3bd5-11eb-9bf5-9f1320a7cdf3.png)
 
 
-    I added the scroll view into the root as the lowest child, then set the rest's `zPosition` to some higher value. 
+I added the scroll view into the root as the lowest child, then set the rest's `zPosition` to some higher value. 
 
-    So, I was able to interact with the scroll view, although I touched the header or footer area.
+   So, I was able to interact with the scroll view, although I touched the header or footer area.
 
-    But as you can see, the original weather app contains several buttons in the footer. I haven't solved it yet.
+   But as you can see, the original weather app contains several buttons in the footer. I haven't solved it yet.
